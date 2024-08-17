@@ -106,7 +106,7 @@ include 'Models/ItemModal.php';
             </div>
         </div>
         <!-- About Section Button-->
-        <p class="masthead-subheading font-weight-light mb-0">Keisy Orfelinda Fajardo Palencia</p>
+        
         <div class="text-center mt-4">
             <a class="btn btn-xl btn-outline-light" href="assets/img/curriculum.jpg" download="curriculum.png">
                 <i class="fas fa-download me-2"></i>

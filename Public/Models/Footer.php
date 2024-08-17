@@ -14,7 +14,7 @@
             <div class="col-lg-6 mt-5">
                 <h4 class="text-uppercase mb-4">Acerca del Sitio Web</h4>
                 <p class="lead mb-0">
-                    Este proyecto es desarrollado usando el lenguaje de programación PHP, HTML, CSS y JavaScript.
+                    Esta página es desarrollada usando el lenguaje de programación PHP, HTML, CSS y JavaScript.
                     con el objetivo de crear una aplicación web dinámica e interactiva. PHP se utiliza en el backend 
                     para gestionar la lógica del servidor, interactuar con bases de datos y procesar las solicitudes de 
                     los usuarios. HTML estructura el contenido de las páginas, mientras que CSS se encarga de la presentación 
