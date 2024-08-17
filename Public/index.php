@@ -9,8 +9,7 @@ include 'Models/ItemModal.php';
         <!-- Masthead Avatar Image-->
         <img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="..." />
         <!-- Masthead Heading-->
-       
-        <h1 class="masthead-heading text-uppercase mb-0">Página Web MVC</h1>
+        <h1 class="masthead-heading text-uppercase mb-0">PAGINA MVC</h1>
         <!-- Icon Divider-->
         <div class="divider-custom divider-light">
             <div class="divider-custom-line"></div>
@@ -84,7 +83,7 @@ include 'Models/ItemModal.php';
 <section class="page-section bg-primary text-white mb-0" id="about">
     <div class="container">
         <!-- About Section Heading-->
-        <h2 class="page-section-heading text-center text-uppercase text-white">Acerca de mí</h2>
+        <h2 class="page-section-heading text-center text-uppercase text-white">Sobre mí</h2>
         <!-- Icon Divider-->
         <div class="divider-custom divider-light">
             <div class="divider-custom-line"></div>
@@ -94,21 +93,20 @@ include 'Models/ItemModal.php';
         <!-- About Section Content-->
         <div class="row">
             <div class=" ms-auto">
-                <p class="lead">Mi nombre es Keisy Fajardo.
+                <p class="lead">
+
+                Mi nombre es Keisy Fajardo.
                 Me considero una persona perseverante y dedicada. Sé que es importante alcanzar las metas 
                 propuestas y sueños, es por ello que trato de lograr mis objetivos con esfuerzo y dedicación.
                 Algunas veces puede ser complicado, pero con la ayuda de Dios y fuerza de voluntad, todo es posible.
 
                 Una de mis frases favoritas es: "Make your dreams come true". Me motiva a seguir adelante y a no rendirme 
-                a pesar de las adversidades.
-
-                </p>
+                a pesar de las adversidades.</p>
             </div>
         </div>
         <!-- About Section Button-->
-        
         <div class="text-center mt-4">
-            <a class="btn btn-xl btn-outline-light" href="assets/img/curriculum.jpg" download="curriculum.png">
+            <a class="btn btn-xl btn-outline-light" href="assets/img/curriculum.png" download="curriculum.png">
                 <i class="fas fa-download me-2"></i>
                 Descargar Curriculum
             </a>
